@@ -177,7 +177,7 @@ def portafolio():
 while True : 
     try:
         print(menu(), end="")
-        opciones = int(input("ingrese por favor una opcion gracias"))
+        opciones = int(input(""))
         
         match opciones :
             case 1:
