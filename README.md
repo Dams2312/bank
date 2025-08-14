@@ -24,8 +24,8 @@ bancarias de de didtintos usuarios en un banco
 
 # estructura de archivos 
 
-# banco.py          # Archivo principal con toda la lógica del sistema
-# README.md         # Este archivo de documentación
+* banco.py:*           Archivo principal con toda la lógica del sistema
+* README.md: *         Este archivo de documentación
 
 # como se utiliza 
 
